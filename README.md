@@ -14,6 +14,7 @@ I built a pipeline to pull data from QuickFS.net’s API, which is a service tha
   - Pandas
   - Plotly
   - Requests
+  - Json
   - Yahoo Finance
   - SQLite
   - SQLAlchemy
