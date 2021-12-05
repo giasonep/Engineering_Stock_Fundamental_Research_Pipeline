@@ -18,7 +18,7 @@ I built a pipeline to pull data from QuickFS.net’s API, which is a service tha
   - SQLite
   - SQLAlchemy
   
----> **Hosting**
+**Hosting**
   - Streamlit
   - Heroku
 
