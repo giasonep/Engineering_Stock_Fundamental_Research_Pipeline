@@ -69,7 +69,7 @@ Symbol legend:
 
 The app also provides charts that display non-GAAP/GAAP EPS and Sales on a non-rolling and rolling basis to visually display a company’s performance over time. Additionally, the app provides a nine-month Yahoo Finance and Plotly candlestick chart to the user for price analysis. The user can also go back in time and generate research for previous earning reports and also receive a three-month price change post the release of each report as well as its accompanying chart to visually display that report’s reception through its price performance. Users can also use Plotly to alter each chart as well as download the chart if desired. 
 
-Lastly, the app uses warning and exception handling. Any stock tickers incorrectly entered will return nothing. Any delisted stocks or stocks that are missing price data will display an error message. Lastly, research of reports older than 90 days will display that the user is not viewing the most recent quarter’s report, which accounts for research awareness and the possibility that the app is missing the most current data for that security. 
+Notably, the app uses warning and exception handling. Any stock tickers incorrectly entered will return nothing. Any delisted stocks or stocks that are missing price data will display an error message. Lastly, research of reports older than 90 days will display that the user is not viewing the most recent quarter’s report, which accounts for research awareness and the possibility that the app is missing the most current data for that security. 
 
 ### LEADERBOARD PAGE
 
